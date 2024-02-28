@@ -1,0 +1,1249 @@
+/* @media (min-width: 1400px) and (max-width: 1500px){
+  .slider-area .nivo-directionNav a.nivo-nextNav {
+    right: 405px;
+    top: 66%;
+  }
+  .slider-area .nivo-directionNav a.nivo-prevNav {
+    left: 24%;
+    top: 66%;
+  }
+} */
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .menu ul li {
+    padding: 15px 14px;
+  } 
+  .menu ul li:nth-child(n + 2):before {
+    height: 13px;
+    margin-left: -18px;
+}
+.facilities-box {
+  min-height: 302px;
+}
+.footer-top-link ul li:nth-child(n+2)::before {
+  margin-left: -21px;
+}
+.footer-top-link ul li {
+  padding: 15px 19px;
+}
+  .slider-banner-content {
+    margin-top: 250px;
+  }    
+  .slider-area .nivo-directionNav a.nivo-prevNav {
+    left: 40px;
+    top: 46%;
+  }
+  .slider-area .nivo-directionNav a.nivo-nextNav {
+    right: 80px;
+    top: 46%;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+      .menu ul li {
+        padding: 12px 10px;
+      }
+      .menu ul li {
+        font-size: 13px;
+      }
+      .banner-area {
+        margin-top: -25px;
+      }
+      .menu ul li:nth-child(n+2)::before {
+        height: 11px;
+        width: 2px;
+        position: absolute;
+        content: '';
+        background: #fff;
+        margin-left: -13px;
+        top: 15px;
+      }
+      .header-appointment a p {
+        padding: 8px 14px;
+        display: inline-block;
+        font-size: 12px;
+      }
+      .slider-banner-content {
+        margin-top: 160px;
+        padding: 30px 40px;
+      }
+      .slider-banner-content h1 {
+        font-size: 38px;
+      }
+      .facilities-content {
+        padding: 0px;
+        padding-top: 20px;
+      }
+      .facilities-box {
+        padding: 20px;
+        min-height: 274px;
+      }
+      .testimonial-video-bton img {
+        left: 125px;
+        bottom: 25px;
+      }
+      .our-services-box.content-1 p {
+        padding-top: 37px !important;
+      }
+      .our-services-box.content-2 p {
+        padding-top: 26px;
+      }
+      .home-md-desk-content {
+        padding: 0px 0px;
+      }
+      .h-our-services-box p {
+        min-height: 97px;
+      }
+      .footer-appointment-content h1 {
+        font-size: 27px;
+      }
+      .our-doctor-appointment {
+        padding: 20px 25px;
+      }
+      .footer-appointment-content {
+        padding-top: 0px;
+      }
+      .footer-appointment.bton {
+        padding-top: 12px;
+        margin-top: 5px;
+      }
+      .footer-top-link ul li:nth-child(n+2)::before {
+        margin-left: -10px;
+      }
+      .footer-top-link ul li {
+        padding: 15px 7px;
+      }
+      .page-banner {
+        margin-top: 0px;
+        min-height: 260px;
+      }
+      .about-mission-vision.box {
+        min-height: 315px;
+      }
+      .aboutus-doc-content {
+        padding: 5px 0px;
+      }
+      .vision-title h1 {
+        font-size: 24px;
+        padding-top: 34px;
+        padding-bottom: 32px;
+      }
+      .mission-title h1 {
+        padding: 30px;
+        font-family: 'poppinssemibold';
+        font-size: 24px;
+      }
+      .vision-content {
+        margin-top: 0px;
+      }
+      .page-banner-heading-left h2 {
+        padding-top: 115px;
+      }
+      .page-banner-heading-right {
+        padding-top: 85px;
+      }
+      .page-banner-heading-right h1 {
+        margin-bottom: 0px;
+      }
+      .infrastructure-content {
+        padding: 45px 0px;
+      }
+      .slider-area .nivo-directionNav a.nivo-prevNav {
+        left: 40px;
+        top: 46%;
+      }
+      .slider-area .nivo-directionNav a.nivo-nextNav {
+        right: 80px;
+        top: 46%;
+      }
+      .contactus-form {
+        width: 695px;
+        padding-left: 230px;
+      }
+      .contact-us-address-sec {
+        margin-left: 15px;
+        width: 398px;
+        margin-top: 22px;
+      }
+      .testimonial-banner {
+        padding: 1px 0px;
+      }
+      .video-gallery-btn {
+        top: 47%;
+      }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .mean-container a.meanmenu-reveal{
+        height: 160px!important;
+        line-height: 40px!important;
+        color: red;
+    }
+    .mean-container .mean-bar{
+        border-top: none !important;
+        height: 42px !important;
+        min-height: 42px!important;
+        top: -85px;
+    }
+    .mean-container .mean-nav {
+      margin-top: 99px !important;
+    }
+    .mean-container .mean-nav ul li a:hover {
+      background: #009846 !important;
+    }
+    .mean-container .mean-nav ul li a {
+      color: #ff7900 !important;
+      background: #fff !important;
+      font-family: 'poppins';
+    }
+    .mean-container a.meanmenu-reveal.meanclose {
+      color: #fd7c05 !important;
+    }
+    .top-contact-head .row .col:nth-child(1) {
+        display: none;
+      }
+      .top-contact-head .row .col:nth-child(2) {
+        display: none;
+      }
+      .top-contact-head {
+        float: right;
+      }
+      .mean-container a.meanmenu-reveal span {
+        background: #fd7c05 !important;
+      }
+      .header-menu-sec {
+        height: 38px;
+      }
+      .slider-banner-content {
+        margin-top: 165px;
+        padding: 30px 75px;
+      }
+      .nivo-directionNav a {
+        top: 58% !important;
+        margin: 0% 13%;
+      }
+      .facilities-box {
+        margin-bottom: 22px;
+      }
+      .md-desk-dot-img-left {
+        right: -150px;
+      }
+      .md-desk-dot-img-right {
+        left: -155px;
+      }
+      .home-md-desk-img img {
+        float: right;
+      }
+      .home-blogs-box.media{
+        display: none;
+      }
+      .our-doctor-img {
+        margin-bottom: 25px;
+      }
+      .our-doc-content h1 {
+        text-align: center;
+        font-size: 30px;
+      }
+      .our-doctor-appointment {
+        border-radius: 90px;
+      }
+      .footer-top-link ul li {
+        padding: 8px 21px;
+      }
+      .copy-para-left {
+        text-align: center;
+        margin-bottom: 3px;
+      }
+      .copy-para-right {
+        text-align: center;
+        margin-top: 0px;
+      }
+      .slider-banner-content h1 {
+        font-size: 30px;
+      }
+      .slider-banner-content p {
+        font-size: 18px;
+      }
+      .slider-banner-content {
+        margin-top: 145px;
+        padding: 25px;
+      }
+      .footer-top-link ul li:nth-child(5) {
+        padding-left: 0px !important;
+      }
+     
+      .footer-top-link ul li:nth-child(5)::before {
+        display: none
+      }
+      .vision-title h1 {
+        padding: 0px;
+        padding-left: 10px;
+        margin-bottom: 0px;
+      }
+      .vision-logo {
+        float: none;
+      }
+      .vision-content {
+        margin-top: 0px;
+      }
+      .mission-title h1 {
+        padding: 0px;
+        padding-left: 10px;
+        margin-bottom: 0px;
+      }
+      .mission-logo {
+        float: none;
+      }
+      .mission-content {
+        margin-top: 0px;
+      }
+      .achievement-count-box {
+        margin-bottom: 22px;
+      }
+      .page-banner {
+        min-height: 240px;
+        margin-top: -25px;
+      }
+      .page-banner-heading-left h2 {
+        padding-top: 105px;
+      }
+      .page-banner-heading-right {
+        padding-top: 75px;
+      }
+      .page-banner-heading-right h1 {
+        margin-bottom: 0px;
+        font-size: 30px;
+      }
+      .about-mission-vision.box {
+        min-height: 410px;
+      }
+      .footer-appointment.bton {
+        float: none;
+        margin: auto;
+      }
+      .page-banner-heading-right h1 {
+        margin-bottom: 0px;
+      }
+      .page-banner-heading-left h2 {
+        font-size: 27px;
+      }
+      .infrastructure-content {
+        padding: 0px 0px;
+      }
+      .nivo-directionNav {
+        display: none;
+      }
+      .owl-theme .owl-dots, .owl-theme .owl-nav {
+        display: none;
+      }
+      .testimonial-video-bton img {
+        bottom: -8px;
+        left: 260px;
+      }
+      .home-blogs {
+        min-height: 1080px;
+        background-size: cover;
+      }
+      .infrastructure-content h2 {
+        font-size: 25px;
+      }
+      .contactus-form {
+        width: 100%;
+        padding-left: 50px;
+        border-radius: 8px;
+        margin-left: 0px;
+      }
+      .contact-us-address-sec {
+        padding: 50px;
+        margin-left: 0px;
+        margin-top: 0;
+        position: relative;
+        margin-bottom: 40px !important;
+        margin: auto;
+      }
+      .contactus-sec {
+        padding: 50px 0px;
+      }
+      .home-about-content h6 {
+        font-size: 19px;
+      }
+      .home-about-content p {
+        font-size: 18px;
+      }
+      .our-services-box.content-2 p {
+        padding-top: 25px;
+      }
+      .our-services-box.content-8 p {
+        padding-top: 25px;
+      }
+      .our-doc-content h6 {
+        padding-top: 13px;
+      }
+      .footer-appointment-content h1 {
+        margin-bottom: 20px;
+        font-size: 26px;
+      }
+      .footer-appointment-content {
+        border-radius: 43px;
+        padding: 0px 20px;
+        background-color: #009846;
+      }
+      .our-doctor-appointment {
+        background-color: transparent;
+      }
+      .aboutus-doc-img {
+        text-align: center;
+      }
+      .specialties-nav-tabs {
+        margin-bottom: 25px;
+      }
+      .specia-cardio-content h4 {
+        margin-bottom: 5px;
+        margin-top: 12px;
+      }
+      .specia-doc-box {
+        margin-bottom: 25px;
+      }
+      .doc-profile-btn {
+        margin-bottom: 20px;
+      }
+      .testimonial-banner {
+        padding: 1px 0px;
+      }
+      .video-gallery-btn {
+        top: 50%;
+      }
+}
+@media (max-width: 767px) {
+    .mean-container a.meanmenu-reveal{
+        height: 166px!important;
+        line-height: 40px!important;
+        color: red;
+    }
+    .mean-container .mean-nav{
+        margin-top: 116px !important;
+    }
+    .mean-container .mean-bar{
+        border-top: none !important;
+        height: 42px!important;
+        min-height: 42px!important;
+      
+        top: -85px;
+    }
+    .mean-container .mean-nav ul li a:hover {
+      background: #009846 !important;
+    }
+    .mean-container .mean-nav ul li a {
+      color: #ff7900 !important;
+      background: #fff !important;
+      font-family: 'poppins';
+    }
+    .mean-container a.meanmenu-reveal.meanclose {
+      color: #fd7c05 !important;
+    }
+    .top-contact-head .row .col:nth-child(1) {
+        display: none;
+      }
+      .top-contact-head .row .col:nth-child(2) {
+        display: none;
+      }
+      .top-contact-head .row .col:nth-child(3) {
+        display: none;
+      }
+      .top-contact-head {
+        float: right;
+      }
+      .mean-container a.meanmenu-reveal span {
+        background: #fd7c05 !important;
+      }
+      .header-menu-sec {
+        height: 45px;
+      }
+      .slider-banner-content {
+        margin-top: 165px;
+        padding: 30px 75px;
+      }
+      .nivo-directionNav a {
+        top: 55% !important;
+        margin: 0% 21%;
+      }
+      .facilities-box {
+        margin-bottom: 22px;
+      }
+      .md-desk-dot-img-left {
+        right: -150px;
+      }
+      .md-desk-dot-img-right {
+        left: -155px;
+      }
+      .home-md-desk-img img {
+        float: right;
+      }
+      .home-blogs-box.media{
+        display: none;
+      }
+      .our-doctor-img {
+        margin-bottom: 25px;
+      }
+      .footer-appointment-content h1 {
+        text-align: center;
+        font-size: 20px;
+      }
+      .mean-container .mean-nav {
+        margin-top: 106px !important;
+      }
+      .our-doctor-appointment {
+        border-radius: 90px;
+      }
+      .testimonial-banner {
+        padding: 1px 0px;
+      }
+      .copy-para-left {
+        text-align: center;
+        margin-bottom: 3px;
+      }
+      .copy-para-right {
+        text-align: center;
+        margin-top: 0px;
+      }
+      .slider-banner-content h1 {
+        font-size: 27px;
+      }
+      .slider-banner-content p {
+        font-size: 18px;
+      }
+      .slider-banner-content {
+        margin-top: 58px;
+        padding: 14px;
+      }
+      .slider-area .nivo-caption p {
+        padding: 0px;
+       
+      }
+      .header-logo {
+        width: 70%;
+      }
+      .footer-top-link ul li:nth-child(5) {
+        padding-left: 0px !important;
+      }
+     
+      .footer-top-link ul li:nth-child(5)::before {
+        display: none
+      }
+      .achievement-count-box {
+        margin-bottom: 22px;
+      }
+      .vision-content {
+        margin-top: 20px;
+      }
+      .mission-content {
+        margin-top: 20px;
+      }
+      .about-mission-vision.box {
+        min-height: auto;
+        margin-bottom: 20px;
+      }
+      .footer-appointment.bton {
+        float: none;
+        margin: auto;
+      }
+      .footer-logo {
+        width: 30%;
+      }
+      .page-banner-heading-left h2 {
+        padding-top: 90px;
+        padding-left: 0px;
+        font-size: 27px;
+      }
+      .page-banner-heading-right {
+        padding-top: 75px;
+      }
+      .page-banner {
+        min-height: 215px;
+        margin-top: -35px;
+      }
+      .page-banner-heading-right h1 {
+        font-size: 27px;
+      }
+      .infrastructure-content {
+        padding: 0px 0px;
+      }
+      .page-banner-heading-right h1 {
+        margin-bottom: 0px;
+      }
+      .page-banner-heading-left h2 {
+        padding-top: 90px;
+        padding-left: 0px;
+        font-size: 23px;
+      }
+      .infrastructure-content.left h2 {
+        padding-top: 29px;
+      }
+      .nivo-directionNav {
+        display: none;
+      }
+      .owl-theme .owl-dots, .owl-theme .owl-nav {
+        display: none;
+      }
+      .testimonial-video-bton img {
+        left: 133px;
+        width: 16% !important;
+      }
+      .testimonial-video-bton img {
+        left: 200px;
+        bottom: 6px;
+      }
+      .h-blogs.bton {
+        margin-top: 20px;
+      }
+      .infrastructure-content h2 {
+        padding-bottom: 0px;
+      }
+      .contactus-form {
+        width: 100%;
+        padding-left: 50px;
+        border-radius: 8px;
+        margin-left: 0px;
+      }
+      .contact-us-address-sec {
+        padding: 50px;
+        margin-left: 0px;
+        margin-top: 0;
+        position: relative;
+        margin-bottom: 40px !important;
+        margin: auto;
+      }
+      .contactus-sec {
+        padding: 50px 0px;
+      }
+      .home-about-content h1 {
+        text-transform: uppercase;
+        font-family: 'poppinssemibold';
+        font-weight: 1000;
+        font-size: 33px;
+      }
+      .home-about-content h1 {
+        font-size: 32px;
+      }
+      .home-about-content p {
+        font-size: 17px;
+      }
+      .our-services-box.content-2 p {
+        padding-top: 26px;
+      }
+      .nav-patient-say ul li .nav-link {
+        padding: 7px 30px;
+      }
+      .footer-top-link ul li {
+        display: inherit;
+      }
+      .footer-top-link ul li:nth-child(n+1)::before {
+        display: none ;
+      }
+      .footer-top-link ul li:nth-child(1) {
+        padding-left: 30px !important;
+      }
+      .footer-top-link ul li:nth-child(5) {
+        padding-left: 30px !important;
+      }
+      .footer-top-link ul li {
+        padding: 8px 30px;
+      }
+      .footer-top-link ul li a::before {
+        color: #FF7900;
+        position: absolute;
+        content: "\f111";
+        font-size: 10px;
+        font-family: "Font Awesome 5 Free";
+        margin-left: -23px;
+        margin-top: 3px;
+      }
+      .home-about-content h6 {
+        font-size: 18px;
+      }
+      .our-services-box.content-8 p {
+        padding-top: 25px;
+      }
+      .footer-appointment-content h1 {
+        margin-bottom: 12px;
+        font-size: 19px;
+      }
+      .footer-appointment-content {
+        border-radius: 43px;
+        padding: 0px 20px;
+        background-color: #009846;
+      }
+      .our-doctor-appointment {
+        background-color: transparent;
+      }
+      .our-services-box.content-7 p {
+        padding-top: 27px;
+      }
+      .footer-appointment.bton {
+        height: 52px;
+        width: 250px;
+        font-size: 17px;
+      }
+      .our-doctor-appointment {
+        margin: 30px 0px;
+      }
+      .our-doc-content h6 {
+        padding-top: 15px;
+      }
+      .aboutus-doc-img {
+        text-align: center;
+      }
+      .specialties-nav-tabs {
+        margin-bottom: 25px;
+      }
+      .specia-cardio-content h4 {
+        margin-bottom: 5px;
+        margin-top: 12px;
+      }
+      .specia-doc-box {
+        margin-bottom: 25px;
+      }
+      .doc-profile-btn {
+        margin-bottom: 20px;
+      }
+      .doctor-profile-img {
+        text-align: center;
+      }
+      .page-banner-content-bg {
+        position: inherit;
+        padding: 30px 0px;
+        background: #F2F7FB;
+        z-index: -1;
+      }
+      .video-gal-bg-dot {
+        display: none;
+      }
+      .video-gallery-btn {
+        top: 61%;
+      }
+      .tab + label {
+        margin-bottom: 0px;
+      }
+      .tab + label:nth-child(4){
+        margin-bottom: 40px;
+      }
+      .testimonial-carousel-video .owl-controls {
+        display: none;
+      }
+}
+@media (max-width: 575px) {
+    .slider-area .nivo-directionNav a.nivo-nextNav {
+        right: 40px;
+        display: none;
+      }
+      .slider-area .nivo-directionNav a.nivo-prevNav {
+        left: 40px;
+        display: none;
+      }
+      .slider-banner-content p {
+        font-size: 16px;
+      }
+      .slider-banner-content h1 {
+        font-size: 23px;
+      }
+      .top-contact-head {
+        position: absolute;
+        top: 0;
+        right: 15px;
+      }
+      .header-logo {
+        width: 31%;
+      }
+      .home-about {
+        padding: 45px 0px;
+      }
+      .footer-top-link ul li {
+        padding: 8px 30px;
+      }
+      .footer-top-link ul li:nth-child(1) {
+        padding-left: 30px !important;
+      }
+      .footer-top-link ul li:nth-child(5) {
+        padding-left: 30px !important;
+      }
+      .footer-logo {
+        width: 30%;
+      }
+      .page-banner {
+        min-height: 174px;
+        margin-top: -35px;
+        background-position: right;
+      }
+      .page-banner-heading-right {
+        padding-top: 0px;
+        margin-top: -50px;
+      }
+      .page-banner-heading-right {
+        padding-top: 0px;
+      }
+      .page-banner-heading-right h1 {
+        padding-top: 0px;
+        margin-bottom: 0px;
+      }
+      .page-banner-heading-left h2 {
+        padding-top: 70px;
+      }
+      .about-vision-mission {
+        padding: 40px 0px;
+      }
+      .about-us-content p {
+        padding-top: 0px;
+      }
+      .about-us-content {
+        padding-top: 0px;
+      }
+      .aboutus-doc-content {
+        padding: 30px 0px;
+      }
+      .aboutus-doc-content h2 {
+        font-size: 22px;
+      }
+      .aboutus-doc-content h1 {
+        padding-bottom: 0px;
+      }
+      .infrastrucure-box {
+        padding: 20px 0px;
+      }
+      .our-doctor-img:hover {
+        transform: scale(1.02);
+      }
+      .home-about-content h1 {
+        font-size: 27px;
+      }
+      .our-services-box.content-7 p {
+        padding-top: 25px;
+      }
+      .our-services-box.content-8 p {
+        padding-top: 25px;
+      }
+      .slider-banner-content {
+        margin-top: 90px;
+        padding: 20px 30px;
+      }
+      .home-md-desk-content p {
+        font-size: 15px;
+        width: 100%;
+      }
+      .specia-cardio-content h4 {
+        font-size: 20px;
+      }
+      .video-gallery-btn {
+        top: 62%;
+      }
+}
+@media (max-width: 568px) {
+    .slider-banner-content p {
+        font-size: 13px;
+      }
+      .slider-banner-content h1 {
+        font-size: 19px !important;
+      }
+      .slider-banner-content {
+        margin-top: 75px;
+        padding: 20px 30px;
+      }
+       h1 {
+        font-size: 25px;
+      }
+      .home-about-content h6 {
+        font-size: 18px;
+      }
+      .our-md-sec {
+        padding: 40px 0px;
+      }
+      .banner-area {
+        margin-top: -35px;
+      }
+      .footer-appointment-content h1 {
+        text-align: center;
+        font-size: 18px !important;
+      }
+      .vision-content {
+        margin-top: 12px;
+      }
+      .vision-title h1 {
+        padding: 25px;
+        font-size: 30px;
+      }
+      .mission-title h1 {
+        padding: 25px;
+        font-size: 30px;
+      }
+      .mission-content {
+        margin-top: 12px;
+      }
+      .testimonial-video-bton img {
+        left: 210px;
+      }
+      .footer-top-link ul li {
+        display: inherit;
+      }
+      .footer-top-link ul li:nth-child(n+1)::before {
+        display: none ;
+      }
+      .h-blogs-content h5 {
+        font-size: 22px;
+      }
+      .our-doc-content h6 {
+        padding-top: 15px;
+      }
+      .owl-theme .owl-dots, .owl-theme .owl-nav {
+        display: none !important;
+      }
+      .video-gallery-btn {
+        top: 58%;
+      }
+}
+@media (max-width: 480px) {
+    .banner-area {
+        margin-top: -30px;
+      }
+      .header-logo {
+        width: 35%;
+      }
+      .slider-banner-content p {
+        font-size: 10px;
+      }
+      .slider-banner-content h1 {
+        font-size: 13px !important;
+      }
+      .slider-banner-content {
+        margin-top: 70px;
+        padding: 20px 30px;
+      }
+      .footer-appointment-content {
+        padding-top: 0px;
+      }
+      .footer-appointment.bton {
+        margin-top: 0px;
+      }
+      .footer-top-link ul li {
+        display: inherit;
+      }
+      .footer-top-link ul li:nth-child(n+1)::before {
+        display: none ;
+      }
+      .copyright p {
+        font-size: 12px;
+      }
+      .footer-appointment.bton {
+        height: 53px;
+        width: 260px;
+        font-size: 17px;
+      }
+      .aboutus-doc-content p {
+        font-size: 15px;
+      }
+      .aboutus-doc-content h2 {
+        font-size: 18px;
+      }
+      .page-banner-heading-right h1 {
+        font-size: 22px;
+      }
+      .page-banner-heading-left h2 {
+        padding-top: 83px;
+      }
+      .page-banner-heading-left h2 {
+        padding-top: 80px;
+        font-size: 22px;
+      }
+      .page-banner-heading-right {
+        padding-top: 0px;
+        margin-top: -45px;
+      }
+      .testimonial-video-bton img {
+        left: 170px;
+        bottom: 9px;
+      }
+      .home-blogs {
+        min-height: 915px;
+      }
+      .home-about-content p {
+        font-size: 15px;
+      }
+      .our-services-box.content-2 p {
+        padding-top: 15px;
+      }
+      .nav-patient-say ul li .nav-link.active {
+        margin: 10px;
+      }
+      .nav-patient-say ul li .nav-link {
+        margin: 10px;
+      }
+      .nav-patient-say ul li .nav-link {
+        padding: 4px 20px;
+      }
+      .specia-cardio-content h4 {
+        font-size: 18px;
+      }
+      .doct-profile-content h4 {
+        font-size: 20px;
+      }
+      .home-testimonial-content p {
+        font-size: 15px;
+      }
+      .home-testimonial-box {
+        padding: 20px 30px;
+      }
+      .video-gallery-btn {
+        top: 57%;
+      }
+}
+@media (max-width: 414px) {
+    .header-logo {
+        width: 41%;
+      }
+      .vision-content {
+        margin-top: 0px;
+      }
+      .vision-logo {
+        width: 25%;
+      }
+      .mission-content {
+        margin-top: 0px;
+      }
+      .mission-logo {
+        width: 25%;
+      }
+      .page-banner-heading-right h1 {
+        font-size: 25px;
+      }
+      .infrastructure-content h2 {
+        padding-bottom: 0px;
+        font-size: 21px;
+      }
+      .page-banner-heading-left h2 {
+        font-size: 18px;
+      }
+      .page-banner-heading-right h1 {
+        font-size: 17px;
+      }
+      .testimonial-video-bton img {
+        left: 143px;
+        bottom: 20px;
+      }
+      .vision-title h1 {
+        padding: 16px;
+        font-size: 30px;
+      }
+      .mission-title h1 {
+        padding: 16px;
+        font-size: 30px;
+      }
+      .contact-us-address-sec {
+        width: auto;
+      }
+      .home-about-content h1 {
+        font-size: 23px;
+      }
+      .home-md-desk-content p {
+        font-size: 15px;
+      }
+      .home-about-content p {
+        font-size: 15px;
+      }
+      .home-about-content h6 {
+        font-size: 15px;
+      }
+      .our-services-box.content-7 p {
+        padding-top: 15px;
+      }
+      .slider-banner-content {
+        margin-top: 70px;
+        padding: 12px 12px;
+      }
+      .mean-container a.meanmenu-reveal {
+        height: 157px !important;
+        line-height: 40px !important;
+        color: red;
+      }
+      .mean-container a.meanmenu-reveal span {
+        display: block;
+        background: #707070;
+        height: 3px;
+        margin-top: 5px;
+        width: 100%;
+      }
+      .header-menu-sec {
+        height: 35px;
+      }
+      .our-services-box.content-4 p {
+        padding-top: 15px !important;
+      }
+      .our-services-box.content-5 p {
+        padding-top: 15px !important;
+      }
+      .our-services-box.content-8 p {
+        padding-top: 15px;
+      }
+      .facilities-content p {
+        font-size: 20px;
+      }
+      .nav-patient-say ul li .nav-link {
+      
+        font-size: 14px;
+      }
+      .facilities-content h1 {
+        font-size: 30px;
+      }
+      .our-doctor-appointment {
+        margin: 15px 0px;
+      }
+      .footer-appointment-content h1 {
+        text-align: center;
+        font-size: 16px !important;
+      }
+      .footer-appointment.bton {
+        height: 45px;
+        width: 230px;
+        font-size: 16px;
+        padding-top: 10px;
+      }
+      .home-our-services-title h1 {
+        padding-bottom: 15px;
+        font-size: 20px;
+      }
+}
+@media (max-width: 375px) {
+    .footer-appointment.bton {
+        height: 45px;
+        width: 215px;
+        padding-top: 9px;
+        font-size: 15px;
+      }
+      .our-doctor-appointment {
+        border-radius: 65px;
+      }
+      .header-appointment a p {
+        padding: 7px 9px;
+        font-size: 13px;
+      }
+      .header-logo {
+        width: 37%;
+      }
+      .banner-area {
+        margin-top: -33px;
+      }
+      .slider-banner-content {
+        margin-top: 55px;
+        padding: 15px 10px;
+      }
+       h1 {
+        font-size: 21px;
+      }
+      .copyright p {
+        font-size: 10px;
+      }
+      .page-banner-heading-left h2 {
+        font-size: 15px;
+      }
+      .page-banner {
+        min-height: 155px;
+        margin-top: -25px;
+        background-position: right;
+      }
+      .page-banner-heading-right {
+        margin-top: -35px;
+      }
+      .page-banner-heading-right h1 {
+        font-size: 15px;
+      }
+      .testimonial-video-bton img {
+        left: 125px;
+      }
+      .copy-right-content {
+        padding-top: 14px;
+      }
+      .footer-social {
+        padding: 15px 0px;
+      }
+      .vision-title h1 {
+        padding: 15px;
+        font-size: 25px;
+      }
+      .mission-title h1 {
+        padding: 15px;
+        font-size: 25px;
+      }
+      .header-appointment {
+        margin-top: -3px;
+      }
+      .header-menu-sec {
+        top: 50px;
+      }
+      .contact-us-address-sec {
+        padding: 30px;
+      }
+      .slider-banner-content {
+        margin-top: 33px;
+        padding: 15px 10px;
+      }
+      .h-blogs-content h5 {
+        font-size: 19px;
+      }
+      .mean-container .mean-nav {
+        margin-top: 105px !important;
+      }
+      .video-gallery-btn {
+        height: 50px;
+        width: 50px;
+        font-size: 27px;
+      }
+      .specia-cardio-content h4 {
+        font-size: 17px;
+      }
+      .doct-profile-content h4 {
+        font-size: 18px;
+      }
+      .tab + label {
+        font-size: 15px;
+      }
+      .contact-us-content p a {
+        font-size: 14px;
+      }
+}
+@media (max-width: 320px) {
+    .banner-area {
+        margin-top: -35px;
+      }
+      .mean-container .mean-nav {
+        margin-top: 96px !important;
+      }
+      .page-banner-heading-left h2 {
+        font-size: 16px;
+      }
+      .page-banner-heading-right h1 {
+        font-size: 15px;
+      }
+      .page-banner-heading-right {
+        margin-top: -35px;
+      }
+      .page-banner-heading-left h2 {
+        padding-top: 83px;
+      }
+      .mission-title h1 {
+        padding: 14px;
+        font-family: 'poppinsregular';
+        margin-bottom: 0px;
+      }
+      .vision-title h1 {
+        padding: 11px;
+        font-family: 'poppinsregular';
+        margin-bottom: 0px;
+      }
+      .testimonial-video-bton img {
+        left: 105px;
+        bottom: 26px;
+      }
+      .home-about-content h1 {
+        font-size: 20px;
+      }
+      .slider-banner-content {
+        margin-top: 33px;
+      }
+      .page-banner {
+        margin-top: -30px;
+      }
+}
